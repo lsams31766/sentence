@@ -1,4 +1,4 @@
-# setence
+# sentence
 get longest word in sentence
 
 The Unit Tests display both passing and failing unit tests.  
